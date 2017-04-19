@@ -1,4 +1,7 @@
-# test coverage for  [gulp-ruby-sass (v2.1.1)](https://github.com/sindresorhus/gulp-ruby-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-ruby-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-ruby-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-ruby-sass.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-ruby-sass)
+# npmtest-gulp-ruby-sass
+
+#### test coverage for  [gulp-ruby-sass (v2.1.1)](https://github.com/sindresorhus/gulp-ruby-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-ruby-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-ruby-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-ruby-sass.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-ruby-sass)
+
 #### Compile Sass to CSS with Ruby Sass
 
 [![NPM](https://nodei.co/npm/gulp-ruby-sass.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-ruby-sass)
