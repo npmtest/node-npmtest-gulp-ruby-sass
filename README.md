@@ -1,6 +1,6 @@
 # npmtest-gulp-ruby-sass
 
-#### test coverage for  [gulp-ruby-sass (v2.1.1)](https://github.com/sindresorhus/gulp-ruby-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-ruby-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-ruby-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-ruby-sass.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-ruby-sass)
+#### basic test coverage for  [gulp-ruby-sass (v2.1.1)](https://github.com/sindresorhus/gulp-ruby-sass#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-ruby-sass.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-ruby-sass) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-ruby-sass.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-ruby-sass)
 
 #### Compile Sass to CSS with Ruby Sass
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-ruby-sass/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-ruby-sass/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-ruby-sass/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-ruby-sass/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-ruby-sass/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-ruby-sass/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-ruby-sass/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-ruby-sass/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-ruby-sass/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-ruby-sass/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-ruby-sass/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-ruby-sass/build/coverage.html/index.html)
 
@@ -118,7 +118,8 @@
                 }
             ]
         }
-    }
+    },
+    "bin": {}
 }
 ```
 
